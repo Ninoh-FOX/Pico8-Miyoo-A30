@@ -13,8 +13,5 @@ sed -i 's|^transform_screen 0$|transform_screen 135|' "$HOME/.lexaloffle/pico-8/
 
 cpuclock performance 1 1000 384
 
-pico8_dyn -splore -width 640 -height 480 -root_path "/mnt/SDCARD/Roms/PICO/" &> ./log.txt
-sync
-
-cp /mnt/SDCARD/App/pico/.lexaloffle/pico-8/bbs/carts/*.p8.png /mnt/SDCARD/Roms/PICO/
+pico8_dyn -width 640 -height 480 -scancodes -run "$1"
 sync
