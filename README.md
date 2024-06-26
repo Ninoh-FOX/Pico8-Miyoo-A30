@@ -8,22 +8,22 @@ NOTE: you need buy pico8 raspberry pi 32bit code and put pico8_dyn and pico8.dat
 
 - in joypad mode:
 
-	dpad and stick = direction.
-	A = button X.
-	B = button O.
-    X = Escape (options).
-	Menu = Escape (options).
-	Start = Option
-	Select = change to mouse mode.
+	- dpad and stick = direction.
+ - A = button X.
+	- B = button O.
+ - X = Escape (options).
+	- Menu = Escape (options).
+	- Start = Option
+	- Select = change to mouse mode.
 	
 - in mouse mode:
    
-   stick = direction.
-   dpad = move mouse cursor.
-   A = button X.
-   B = button O.
-   R2 = mouse button Left.
-   L2 = mouse button Right.
-   X = Escape (options).
-   Select = change to joypad mode.
+ - stick = direction.
+ - dpad = move mouse cursor.
+ - A = button X.
+ - B = button O.
+ - R2 = mouse button Left.
+ - L2 = mouse button Right.
+ - X = Escape (options).
+ - Select = change to joypad mode.
    
