@@ -1,4 +1,4 @@
-# Pico8-Miyoo-A30
+# Pico8 Miyoo A30
 Pico8 standalone emulator for miyoo a30
 thanks to Steward-Fu for his custom sdl code: https://github.com/steward-fu/sdl2
 
